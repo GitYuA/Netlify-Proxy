@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://emby.xn--kkr.cn/:splat"
+  to = "https://abc.com/:splat"
   status = 200
   force = true
