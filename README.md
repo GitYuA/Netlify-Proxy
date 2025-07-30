@@ -11,10 +11,10 @@
 
 ## 🚀安装
 
-- 1. Fork [本项目](https://github.com/GitYuA/Netlify-Proxy)
-- 2. 注册 [Netlify](https://netlify.com) 账号
-- 3. 在 Netlify 中创建新站点并连接 GitHub 仓库
-- 4. 使用默认设置部署
+- 1 . Fork [本项目](https://github.com/GitYuA/Netlify-Proxy)
+- 2 . 注册 [Netlify](https://netlify.com) 账号
+- 3 . 在 Netlify 中创建新站点并连接 GitHub 仓库
+- 4 . 使用默认设置部署
 
 ### 🛠️配置说明
 
