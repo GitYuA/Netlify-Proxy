@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://emby.xn--kkr.cn/:splat"
+  status = 200
+  force = true
