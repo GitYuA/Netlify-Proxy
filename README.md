@@ -34,7 +34,7 @@
 [MIT License](LICENSE) © 2025
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/gally16">gally16</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/GitYuA">FreeYuA</a></sub>
 </div> 
 
 ---
