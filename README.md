@@ -20,4 +20,21 @@
 
 部署完成后，根据需要修改 `netlify.toml` 文件中的IP地址或者域名。
 
+
+## ⚠️ 注意事项
+
+- 请遵守目标网站的服务条款
+- 避免代理敏感或受版权保护的内容
+- 某些复杂网站可能需要额外配置才能正常工作
+- 大流量使用可能受到 Netlify 免费计划的限制
+
+  
+## 📄 许可证
+
+[MIT License](LICENSE) © 2025
+
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/gally16">gally16</a></sub>
+</div> 
+
 ---
