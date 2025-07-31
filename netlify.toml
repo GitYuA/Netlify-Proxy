@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/emby/*"
-  to = "http://ipv6.xn--kkr.cn:8091/:splat"
+  to = "https://emby.freeyua.cn/:splat"
   status = 200
   force = true
 
