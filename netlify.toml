@@ -3,10 +3,3 @@
   to = "https://emby.freeyua.cn/:splat"
   status = 200
   force = true
-
-[[redirects]]
-  from = "/1panel/*"
-  to = "http://ipv6.xn--kkr.cn:11111/:splat"
-  status = 200
-  force = true
-
