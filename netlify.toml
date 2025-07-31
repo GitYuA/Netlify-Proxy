@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/emby/*"
+  from = "/*"
   to = "https://emby.freeyua.cn/:splat"
   status = 200
   force = true
