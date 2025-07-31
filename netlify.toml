@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/emby/*"
-  to = "http://ipv6.xn--kkr.cn:8096/:splat"
+  to = "http://ipv6.xn--kkr.cn:8091/:splat"
   status = 200
   force = true
 
