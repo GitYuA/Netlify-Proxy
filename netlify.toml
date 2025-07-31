@@ -1,5 +1,12 @@
 [[redirects]]
-  from = "/*"
-  to = "https://abc.com/:splat"
+  from = "/emby/*"
+  to = "http://ipv6.xn--kkr.cn:8096/:splat"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/1panel/*"
+  to = "http://ipv6.xn--kkr.cn:11111/:splat"
+  status = 200
+  force = true
+
